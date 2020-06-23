@@ -120,5 +120,8 @@
     <None Include="App.config" />
     <None Include="Scripts\CreateVM.bat" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="licence.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
